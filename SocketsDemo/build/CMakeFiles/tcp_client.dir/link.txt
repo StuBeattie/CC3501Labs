@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++ -g CMakeFiles/tcp_client.dir/src/tcp_client.cpp.o -o tcp_client 

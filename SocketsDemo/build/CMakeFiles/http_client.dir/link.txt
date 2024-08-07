@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++ -g CMakeFiles/http_client.dir/src/http_client.cpp.o -o http_client  -lcurl 

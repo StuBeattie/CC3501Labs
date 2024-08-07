@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/pi/SocketsDemo/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++2a -o CMakeFiles/http_client.dir/src/http_client.cpp.o -c /home/pi/SocketsDemo/src/http_client.cpp",
+  "file": "/home/pi/SocketsDemo/src/http_client.cpp"
+},
+{
+  "directory": "/home/pi/SocketsDemo/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++2a -o CMakeFiles/udp_transmit.dir/src/udp_transmit.cpp.o -c /home/pi/SocketsDemo/src/udp_transmit.cpp",
+  "file": "/home/pi/SocketsDemo/src/udp_transmit.cpp"
+},
+{
+  "directory": "/home/pi/SocketsDemo/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++2a -o CMakeFiles/udp_receive.dir/src/udp_receive.cpp.o -c /home/pi/SocketsDemo/src/udp_receive.cpp",
+  "file": "/home/pi/SocketsDemo/src/udp_receive.cpp"
+},
+{
+  "directory": "/home/pi/SocketsDemo/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++2a -o CMakeFiles/tcp_client.dir/src/tcp_client.cpp.o -c /home/pi/SocketsDemo/src/tcp_client.cpp",
+  "file": "/home/pi/SocketsDemo/src/tcp_client.cpp"
+},
+{
+  "directory": "/home/pi/SocketsDemo/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -g -std=gnu++2a -o CMakeFiles/tcp_server.dir/src/tcp_server.cpp.o -c /home/pi/SocketsDemo/src/tcp_server.cpp",
+  "file": "/home/pi/SocketsDemo/src/tcp_server.cpp"
+}
+]

@@ -1,0 +1,7 @@
+/home/pi/SocketsDemo/build/CMakeFiles/edit_cache.dir
+/home/pi/SocketsDemo/build/CMakeFiles/http_client.dir
+/home/pi/SocketsDemo/build/CMakeFiles/udp_transmit.dir
+/home/pi/SocketsDemo/build/CMakeFiles/udp_receive.dir
+/home/pi/SocketsDemo/build/CMakeFiles/rebuild_cache.dir
+/home/pi/SocketsDemo/build/CMakeFiles/tcp_client.dir
+/home/pi/SocketsDemo/build/CMakeFiles/tcp_server.dir
