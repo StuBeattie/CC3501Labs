@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.12)
+project(demo)
+set(CMAKE_CXX_STANDARD 20)
+set(COMPILE DEFINITIONS -02 -Wall)
+add_executable(demo src/main.cpp)
