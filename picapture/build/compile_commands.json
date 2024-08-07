@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pi/picapture/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -std=gnu++2a -o CMakeFiles/PiCapture.dir/src/main.cpp.o -c /home/pi/picapture/src/main.cpp",
+  "file": "/home/pi/picapture/src/main.cpp"
+}
+]
