@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pi/opencv-starter-app/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -isystem /usr/include/opencv4 -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/pi/opencv-starter-app/src/main.cpp",
+  "file": "/home/pi/opencv-starter-app/src/main.cpp"
+}
+]
