@@ -1,0 +1,2 @@
+C:/CC3501_Computer_Interfacing_and_Control/Raspberry_Pico/CC3501-RP2040-labs/build/CMakeFiles/edit_cache.dir
+C:/CC3501_Computer_Interfacing_and_Control/Raspberry_Pico/CC3501-RP2040-labs/build/CMakeFiles/rebuild_cache.dir
